@@ -215,4 +215,4 @@ Therion is offered completely free of charge with all features and updates inclu
 Ready to revolutionize your mapping experience? **Download Therion now and start creating stunning topographic maps!**
 
 ---
-**Last updated:** 2026-09-19 09:21:00 UTC
+**Last updated:** 2026-09-19 13:50:39 UTC
